@@ -1,0 +1,11 @@
+{
+  "name": "fynz-funnel-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fynz industry sales funnels preview and pages",
+  "scripts": {
+    "dev": "npx serve static-preview -p 3000",
+    "start": "npx serve static-preview -p 3000",
+    "serve": "npx serve static-preview -p 3000"
+  }
+}
